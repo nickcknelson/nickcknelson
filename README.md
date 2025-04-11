@@ -5,7 +5,8 @@
 <ul>
   <li>
     <strong><a href="https://github.com/MrF1ow/foodable" target="_blank">Affordable Grocery Finder – Foodable</a></strong><br>
-    A budget-friendly app to help users locate the most affordable grocery options near them.
+    Foodable is a smart and user-friendly application designed to help users find the most affordable grocery items nearby. It combines real-time data with location-based filtering to help users save money and time while shopping. Ideal for budget-conscious consumers, the app emphasizes usability, accessibility, and efficiency.<br><br>
+    <img src="foodable_home_page_light.png" alt="Foodable Home Page" width="400"><br><br>
   </li>
   
   <li>
