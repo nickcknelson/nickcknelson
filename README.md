@@ -9,48 +9,49 @@ I am constantly learning new programming languages and methodologies and always 
 <h2>Experience</h2>
 
 <div align="center">
-  <table cellspacing="0" cellpadding="0" style="max-width: 1000px; width: 100%; border: none; border-collapse: collapse;">
+  <table style="max-width: 1000px; width: 100%; border: none; border-collapse: collapse;">
     <tr valign="top">
-      <td style="min-width: 200px; width: 33%; padding: 0 30px; border: none;">
-        <strong style="font-size: 1.2em;">Languages</strong>
-        <ul>
-          <li>C++/C</li>
-          <li>Python</li>
-          <li>Kotlin</li>
-          <li>SQL</li>
-          <li>JavaScript</li>
-          <li>Typescript</li>
-        </ul>
+      <td style="min-width: 200px; width: 33%; padding: 0 30px;">
+        <strong style="font-size: 1.2em;">Languages</strong><br><br>
+        <div>
+          <p>🟦 C++/C</p>
+          <p>🐍 Python</p>
+          <p>🤖 Kotlin</p>
+          <p>🗄️ SQL</p>
+          <p>🌐 JavaScript</p>
+          <p>🔷 TypeScript</p>
+        </div>
       </td>
-      <td style="min-width: 200px; width: 33%; padding: 0 30px; border: none;">
-        <strong style="font-size: 1.2em;">Tools</strong>
-        <ul>
-          <li>Git</li>
-          <li>GitHub</li>
-          <li>Android Studio</li>
-          <li>VSCode</li>
-          <li>Amazon Web Services</li>
-          <li>VMWare Workstation</li>
-        </ul>
+      <td style="min-width: 200px; width: 33%; padding: 0 30px;">
+        <strong style="font-size: 1.2em;">Tools</strong><br><br>
+        <div>
+          <p>🔧 Git</p>
+          <p>🐙 GitHub</p>
+          <p>📱 Android Studio</p>
+          <p>📝 VSCode</p>
+          <p>☁️ Amazon Web Services</p>
+          <p>💻 VMWare Workstation</p>
+        </div>
       </td>
-      <td style="min-width: 250px; width: 33%; padding: 0 30px; border: none;">
-        <strong style="font-size: 1.2em;">Classes</strong>
-        <ul>
-          <li>System Administration</li>
-          <li>Defense Against the Dark Arts</li>
-          <li>Analysis of Algorithms</li>
-          <li>Data Structures</li>
-          <li>Intro to Computer Networks</li>
-          <li>Intro to Databases</li>
-          <li>Mobile Application Development</li>
-          <li>Operating Systems</li>
-          <li>Software Engineering</li>
-          <li>Web Development</li>
-        </ul>
+      <td style="min-width: 250px; width: 33%; padding: 0 30px;">
+        <strong style="font-size: 1.2em;">Classes</strong><br><br>
+        <div>
+          <p>🖥️ System Administration</p>
+          <p>🧙 Defense Against the Dark Arts</p>
+          <p>🧮 Analysis of Algorithms</p>
+          <p>🧵 Data Structures</p>
+          <p>🌐 Intro to Computer Networks</p>
+          <p>🗃️ Intro to Databases</p>
+          <p>📲 Mobile App Development</p>
+          <p>🧠 Operating Systems</p>
+          <p>🛠️ Software Engineering</p>
+          <p>💻 Web Development</p>
+        </div>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
