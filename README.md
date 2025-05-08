@@ -9,10 +9,10 @@ I am constantly learning new programming languages and methodologies and always 
 <h2>Experience</h2>
 
 <div align="center">
-  <table cellspacing="0" cellpadding="0" style="max-width: 1000px; width: 100%;">
+  <table cellspacing="0" cellpadding="0" style="max-width: 1000px; width: 100%; border: none; border-collapse: collapse;">
     <tr valign="top">
-      <td style="min-width: 200px; width: 33%; padding: 0 30px;">
-        <h3>Languages</h3>
+      <td style="min-width: 200px; width: 33%; padding: 0 30px; border: none;">
+        <strong style="font-size: 1.2em;">Languages</strong>
         <ul>
           <li>C++/C</li>
           <li>Python</li>
@@ -22,8 +22,8 @@ I am constantly learning new programming languages and methodologies and always 
           <li>Typescript</li>
         </ul>
       </td>
-      <td style="min-width: 200px; width: 33%; padding: 0 30px;">
-        <h3>Tools</h3>
+      <td style="min-width: 200px; width: 33%; padding: 0 30px; border: none;">
+        <strong style="font-size: 1.2em;">Tools</strong>
         <ul>
           <li>Git</li>
           <li>GitHub</li>
@@ -33,8 +33,8 @@ I am constantly learning new programming languages and methodologies and always 
           <li>VMWare Workstation</li>
         </ul>
       </td>
-      <td style="min-width: 250px; width: 33%; padding: 0 30px;">
-        <h3>Classes</h3>
+      <td style="min-width: 250px; width: 33%; padding: 0 30px; border: none;">
+        <strong style="font-size: 1.2em;">Classes</strong>
         <ul>
           <li>System Administration</li>
           <li>Defense Against the Dark Arts</li>
@@ -51,6 +51,7 @@ I am constantly learning new programming languages and methodologies and always 
     </tr>
   </table>
 </div>
+
 
 
 <h2>👨‍💻 Software Development Projects</h2>
