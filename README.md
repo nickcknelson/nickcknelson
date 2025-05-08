@@ -8,39 +8,50 @@ I am constantly learning new programming languages and methodologies and always 
 
 <h2>Experience</h2>
 
-<h3>Languages</h3>
-<ul>
-  <li>C++/C</li>
-  <li>Python</li>
-  <li>Kotlin</li>
-  <li>SQL</li>
-  <li>JavaScript</li>
-  <li>Typescript</li>
-</ul>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="max-width: 1000px; width: 100%;">
+    <tr valign="top">
+      <td style="min-width: 200px; width: 33%; padding: 0 30px;">
+        <h3>Languages</h3>
+        <ul>
+          <li>C++/C</li>
+          <li>Python</li>
+          <li>Kotlin</li>
+          <li>SQL</li>
+          <li>JavaScript</li>
+          <li>Typescript</li>
+        </ul>
+      </td>
+      <td style="min-width: 200px; width: 33%; padding: 0 30px;">
+        <h3>Tools</h3>
+        <ul>
+          <li>Git</li>
+          <li>GitHub</li>
+          <li>Android Studio</li>
+          <li>VSCode</li>
+          <li>Amazon Web Services</li>
+          <li>VMWare Workstation</li>
+        </ul>
+      </td>
+      <td style="min-width: 250px; width: 33%; padding: 0 30px;">
+        <h3>Classes</h3>
+        <ul>
+          <li>System Administration</li>
+          <li>Defense Against the Dark Arts</li>
+          <li>Analysis of Algorithms</li>
+          <li>Data Structures</li>
+          <li>Intro to Computer Networks</li>
+          <li>Intro to Databases</li>
+          <li>Mobile Application Development</li>
+          <li>Operating Systems</li>
+          <li>Software Engineering</li>
+          <li>Web Development</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h3>Tools</h3>
-<ul>
-  <li>Git</li>
-  <li>GitHub</li>
-  <li>Android Studio</li>
-  <li>VSCode</li>
-  <li>Amazon Web Services</li>
-  <li>VMWare Workstation</li>
-</ul>
-
-<h3>Classes</h3>
-<ul>
-  <li>System Administration</li>
-  <li>Defense Against the Dark Arts</li>
-  <li>Analysis of Algorithms</li>
-  <li>Data Structures</li>
-  <li>Intro to Computer Networks</li>
-  <li>Intro to Databases</li>
-  <li>Mobile Application Development</li>
-  <li>Operating Systems</li>
-  <li>Software Engineering</li>
-  <li>Web Development</li>
-</ul>
 
 <h2>👨‍💻 Software Development Projects</h2>
 
