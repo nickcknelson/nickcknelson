@@ -64,7 +64,7 @@ I am constantly learning new programming languages and methodologies and always 
   </li>
   
   <li>
-    <strong><a href="https://github.com/nickcknelson/Personal-Website" target="_blank">Star Wars Quiz App (Android)</a></strong><br>
+    <strong><a href="https://github.com/osu-cs492-599-w24/Star_Wars_Quiz_App" target="_blank">Star Wars Quiz App (Android)</a></strong><br>
     A fun and interactive quiz app for Star Wars fans, developed for Android devices.
   </li>
   
@@ -74,7 +74,7 @@ I am constantly learning new programming languages and methodologies and always 
   </li>
   
   <li>
-    <strong><a href="https://github.com/nickcknelson/Personal-Website" target="_blank">Image Viewer & Editor</a></strong><br>
+    <strong><a href="https://github.com/MrF1ow/Image_Viewer_Editor" target="_blank">Image Viewer & Editor</a></strong><br>
     A lightweight tool for viewing and editing images, integrated into my portfolio.
   </li>
 </ul>
